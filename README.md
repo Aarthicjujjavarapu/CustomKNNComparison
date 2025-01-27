@@ -24,13 +24,19 @@ Statistical significance of performance differences is evaluated using a paired 
 # Getting Started
 
 # Clone the repository:
+
 Bash
+
 git clone <https://github.com/Aarthicjujjavarapu/CustomKNNComparison.git>
 
 # Install dependencies:
+
 Bash
+
 cd CustomKNNComparison 
+
 pip install -r requirements.txt 
+
 Running the Code
 
 # Execute the main script:
